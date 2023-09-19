@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #fff;
+  color: #333;
+  line-height: 1.6;
+}
+
+ul {
+  list-style: none;
+  text-align: right;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+h1 {
+  width: 25%;
+}
+
+/* p {
+  margin: 10px 0;
+}
+ */
+
+img {
+  width: 100%;
+}
